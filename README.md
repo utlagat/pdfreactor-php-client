@@ -13,7 +13,7 @@ Downloaded from: https://www.pdfreactor.com/download/ (Web Service Clients)
 ## Installation
 
 ```bash
-composer require givo/pdfreactor-php-client
+composer require utlagat/pdfreactor-php-client
 ```
 
 ## Usage

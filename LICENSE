@@ -1,0 +1,17 @@
+The file src/PDFreactor.class.php is part of the RealObjects PDFreactor
+Web Service Client package.
+
+Copyright (c) 2000-2025 RealObjects GmbH. All rights reserved.
+
+PDFreactor is a registered trademark of RealObjects GmbH.
+https://www.pdfreactor.com
+
+This file is subject to the PDFreactor Software License Agreement:
+https://www.pdfreactor.com/product/license.html
+
+This Composer package is an unofficial redistribution of the official
+PHP client for convenient dependency management. It is not affiliated
+with or endorsed by RealObjects GmbH.
+
+For licensing information about PDFreactor, visit:
+https://www.pdfreactor.com

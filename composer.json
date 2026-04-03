@@ -1,0 +1,16 @@
+{
+    "name": "givo/pdfreactor-php-client",
+    "description": "RealObjects PDFreactor Web Service PHP Client (official client repackaged for Composer)",
+    "type": "library",
+    "license": "proprietary",
+    "keywords": ["pdfreactor"],
+    "homepage": "https://www.pdfreactor.com",
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {
+        "php": "^8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}

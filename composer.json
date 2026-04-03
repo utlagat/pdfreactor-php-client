@@ -1,4 +1,5 @@
 {
+    "name": "utlagat/pdfreactor-php-client",
     "description": "RealObjects PDFreactor Web Service PHP Client (official client repackaged for Composer)",
     "type": "library",
     "license": "proprietary",
